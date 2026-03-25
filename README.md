@@ -5,7 +5,7 @@ This is a simple HTML practice project created to improve my web development ski
 ## Features
 - Basic HTML structure: head, body, headings, paragraphs
 - Links and lists
-- Adding images (if any)
+- Adding images 
 
 ## Purpose
 To strengthen HTML fundamentals and practice creating webpages.
@@ -19,4 +19,4 @@ To strengthen HTML fundamentals and practice creating webpages.
 - Linking pages and adding images
 
 ## Live Demo
-[Click here to view](https://mayurivyavahare980.github.io/HTML Practice /)
+[Click here to view](https://mayurivyavahare980.github.io/HTML-Practice /)
