@@ -19,4 +19,4 @@ To strengthen HTML fundamentals and practice creating webpages.
 - Linking pages and adding images
 
 ## Live Demo
-[Click here to view](https://mayurivyavahare980.github.io/HTML-Practice /)
+[Click here to view](https://mayurivyavahare980.github.io/HTML-Practice)
